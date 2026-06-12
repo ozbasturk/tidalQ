@@ -48,5 +48,7 @@ If you utilize this code or its methodology in your research, please consider ci
 ## Author
 
 **Özgür Baştürk** 
+
 Ankara University
+
 Professor of Astronomy and Astrophysics
