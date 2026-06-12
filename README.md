@@ -41,8 +41,8 @@ The physical formalism and calculations implemented in this code are derived fro
 
 If you utilize this code or its methodology in your research, please consider citing the following foundational papers from our group:
 
-* Baştürk, Ö., et al. (2022, 2023, or 2025)
-* Yalçınkaya, S., et al. (2024) and  Kutluay, A., et al. (2026) used the same code as well.
+* Baştürk, Ö., et al. (<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.2062B/abstract">2022</a>, <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1200B/abstract">2023</a>, or <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.541..714B/abstract">2025</a>)
+* Yalçınkaya, S., et al. (<a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.2475Y/abstract">2024</a>) and  Kutluay, A., et al. (<a href="https://ui.adsabs.harvard.edu/abs/2023TJAA....4...10K/abstract">2023</a>, <a href="https://ui.adsabs.harvard.edu/abs/2026NewA..12702585K/abstract">2026</a>) used the same code as well.
 
 ## Author
 
