@@ -1,5 +1,3 @@
-**
-
 # Tidal Interaction Calculator
 
 A modern, object-oriented Python tool for computing the reduced tidal quality factor ($Q'_*$) and associated orbital evolution timescales for a star in tidal interaction with a close-in planet.
@@ -24,6 +22,9 @@ To install the required dependencies, run:
 ```bash
 pip install astropy uncertainties
 ```
+## Usage
+
+To see how to initialize the `TidalInteraction` class and generate a comprehensive summary report, please refer to the provided example file for WASP-4 (`example_wasp4.py`) included in this repository. It demonstrates a complete, step-by-step use case utilizing the parameters for the WASP-4b system from <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.541..714B/abstract">Basturk et al. (2025)</a>.
 
 ## References and Methodology
 
